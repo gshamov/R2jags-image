@@ -16,6 +16,7 @@ From:  rocker/r-ver:latest
         R -e "install.packages('lattice')"
         R -e "install.packages('colorspace')"
         R -e "install.packages('labeling')"
+        R -e "install.packages('mvtnorm')"       
         #R2Jags
         R -e "install.packages('boot')"
         R -e "install.packages('coda')"
