@@ -36,6 +36,6 @@ From:  rocker/r-ver:latest
         mkdir /scratch
         mkdir /project
 
-%run
+%runscript
         R --version
 
